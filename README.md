@@ -1,7 +1,7 @@
 # Desafio_Indicium
 
 Olá, eu sou a Miriam. 
-
+Uma aspirante a carreira de cientista de dados do Programa Lighthouse da Indicium!
 
 
 Análise Preditiva de Preços de Loja de Carros Automotivos
